@@ -1,0 +1,11 @@
+newbanana
+new chiku
+new kivi
+mango
+apple
+orage
+1:mango
+2:ornage
+3:apple
+4: new 
+5: old

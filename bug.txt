@@ -1,0 +1,7 @@
+bag
+beg
+bug
+bog
+big
+bg
+b*g
